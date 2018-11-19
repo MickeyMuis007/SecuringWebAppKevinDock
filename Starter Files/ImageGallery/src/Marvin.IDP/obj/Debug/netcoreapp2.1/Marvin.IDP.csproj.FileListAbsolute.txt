@@ -1,0 +1,14 @@
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\bin\Debug\netcoreapp2.1\Marvin.IDP.deps.json
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\bin\Debug\netcoreapp2.1\Marvin.IDP.runtimeconfig.json
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\bin\Debug\netcoreapp2.1\Marvin.IDP.runtimeconfig.dev.json
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\bin\Debug\netcoreapp2.1\Marvin.IDP.dll
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp2.1\Marvin.IDP.csprojAssemblyReference.cache
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp2.1\Marvin.IDP.csproj.CoreCompileInputs.cache
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp2.1\Marvin.IDP.RazorAssemblyInfo.cache
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp2.1\Marvin.IDP.RazorAssemblyInfo.cs
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp2.1\Marvin.IDP.AssemblyInfoInputs.cache
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp2.1\Marvin.IDP.AssemblyInfo.cs
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp2.1\Marvin.IDP.RazorTargetAssemblyInfo.cache
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\bin\Debug\netcoreapp2.1\Marvin.IDP.pdb
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp2.1\Marvin.IDP.dll
+C:\Michael\Project\Research\Securing Asp.Net Core 2  with OAuth2 and OIDC\SecuringAspNetCore2WithOAuth2AndOIDC\Starter Files\ImageGallery\src\Marvin.IDP\obj\Debug\netcoreapp2.1\Marvin.IDP.pdb
